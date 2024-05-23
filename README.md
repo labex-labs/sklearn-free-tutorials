@@ -6,8 +6,8 @@
 
 scikit-learn is a Python library for machine learning. It provides a wide range of algorithms and tools for data mining and analysis. In this skill tree, you'll learn how to use scikit-learn to build machine learning models in Python.
 
-|   Index | Name                                                     | Difficulty   | Tutorial                                                                                                              |
-|---------|----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Tutorial                                                                                                             |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
 |     001 | 📖 Linear Models in Scikit-Learn                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linear-models-in-scikit-learn-71093)                                    |
 |     002 | 📖 Linear and Quadratic Discriminant Analysis            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linear-and-quadratic-discriminant-analysis-71094)                       |
 |     003 | 📖 Exploring Scikit-Learn Datasets and Estimators        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/exploring-scikit-learn-datasets-and-estimators-71095)                   |
@@ -306,7 +306,8 @@ scikit-learn is a Python library for machine learning. It provides a wide range 
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
