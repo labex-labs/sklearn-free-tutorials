@@ -338,6 +338,7 @@ scikit-learn is a powerful machine learning library for Python. This Skill Tree 
 - [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 - [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 - [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- [Practice MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
 
 
 ## More
