@@ -1,4 +1,4 @@
-# scikit-learn 免费教程实践
+# scikit-learn 免费实践教程
 
 ## 支持语言
 
